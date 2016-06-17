@@ -1,7 +1,7 @@
 # Site settings
 title: Aquaberry
-email: your-email@domain.com
-url: https://example.github.io
+email: aquaberrry@gmail.com
+url: https://aquaberrry.github.io
 description: "Aquaberry adalah web musik yang di sediakan untuk anda semua yang mengakses website kami."
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -10,7 +10,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Your Website
+footer: Aquaberry Web Music Store
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
