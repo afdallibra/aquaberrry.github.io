@@ -15,9 +15,9 @@ footer: Aquaberry Web Music Store
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/rianaries1
+    url: https://twitter.com/
   - title: facebook
-    url: https://facebook.com/rianariefani
+    url: https://facebook.com/
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket
