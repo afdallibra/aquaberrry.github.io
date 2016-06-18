@@ -1,5 +1,5 @@
     <!-- Download Section -->
-    <section id="Multimedia" class="content-section text-center">
+<section id="Multimedia" class="content-section text-center">
         <div class="download-section">
             <div class="container">
                 <div class="col-lg-8 col-lg-offset-2">
@@ -12,4 +12,23 @@ Your browser does not support the audio element.
                 </div>
             </div>
         </div>
-    </section>
+</section>
+
+<script type="text/javascript">
+sessionStorage.lastname="abdur";
+document.write(sessionStorage.lastname);
+</script> 
+
+<!--dan untuk melihat berapa kali user telah melihat web tersebut-->
+<script type="text/javascript">
+if (sessionStorage.pagecount)
+  {
+  sessionStorage.pagecount=Number(sessionStorage.pagecount) +1;
+  }
+else
+  {
+  sessionStorage.pagecount=1;
+  }
+document.write("Visits "+sessionStorage.pagecount+" time(s) this session.");
+</script> 
+
