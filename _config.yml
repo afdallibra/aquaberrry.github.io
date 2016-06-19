@@ -1,8 +1,8 @@
 # Site settings
-title: Aquaberry
-email: aquaberrry@gmail.com
-url: https://aquaberrry.github.io
-description: "Aquaberry adalah web musik yang di sediakan untuk anda semua yang mengakses website kami."
+title: APMOB GALERY14
+email: rizki.syahputra@students.uin-suska.ac.id
+url: https://example.github.io
+description: "Sebuah halaman berisi galery dari mahasiswa-mahasiswa angkatan 2014 fakultas sains dan teknology UIN SUSKA Riau mata kuliah Aplication Mobile kelas A 2015/2016 Rizki Syahputra, Reynaldi Gatra Utama, Afdhal Arif Amanda Putra, Gusfa Leo Firnando, Rolly Fahdial dan Argawanda Ardian.Silahkan menikmati apa-apa saja yang kami tampilkan di bawah ini"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -10,20 +10,20 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Aquaberry Web Music Store
+footer: Rizki Syahputra,Reynaldi Gatra Utama,Gusfa Leo Firnando,Rolly Fahdial,Afdhal Arif Amanda Putra dan Argawanda Ardian
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/
-  - title: facebook
-    url: https://facebook.com/
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://twitter.com/rizky2424
+  - title: facebook/ourgames
+    url: https://apps.facebook.com/teseqfb
+  - title: Sistem Informasi
+    url: http://sif.uin-suska.ac.id
+  - title: UINSUSKA
+    url: http://uin-suska.ac.id
   - title: github
-    url: https://aquaberrry.github.io
+    url: https://github.com/apmobgalery14
 
 # Build settings
 markdown: kramdown
